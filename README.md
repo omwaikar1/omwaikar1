@@ -4,6 +4,8 @@ MS in Computer Science at **Binghamton University** (3.96 GPA, graduating May 20
 
 I'm looking for **Software Engineering and AI/ML** internships and 2027 full-time roles.
 
+📍 Based in Binghamton, NY
+
 🌐 [omwaikar.vercel.app](https://omwaikar.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/omwaikar/) · 📄 Resumes: [Software Engineering](https://omwaikar.vercel.app/resume-swe.pdf) · [AI / ML](https://omwaikar.vercel.app/resume-aiml.pdf)
 
 ---
